@@ -12,7 +12,7 @@
     "views": "2 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://ceylontv-proxy.xo.je/api/channelone.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/Viu/refs/heads/main/channelone.json"
   },
   {
     "id": "Rupavahini",
